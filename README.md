@@ -4,9 +4,9 @@
 
 ##### NOW
 
-- 👨🏻‍🏫 Working as a teacher assistan at ISDI CODERS.
+- 👨🏻‍🏫 Working as a teacher assistant at ISDI CODERS.
 - 🌱 I´m currently learning Jekyll, Angular and Docker.
-- ☕ I like coffe, movies, and comics. 
+- ☕ I like coffee, movies, and comics. 
 - 😎 Fun fact: I can actually center a div in less than 5 tries. 
 
 ##### CONTACT
